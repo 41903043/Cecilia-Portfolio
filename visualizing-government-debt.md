@@ -7,7 +7,8 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
+Using OECD data, I created a highlighted table via Tableau to show government debt as a percentage of GDP for each country from 1995 to 2003. I used time as the columns and debt ratios as the rows, and used colors to distinguish between different debt levels. Countries with ratios above 100% are shown in orange and those below 100% are shown in blue to visually compare changes in debt across countries. I also sorted the data, removed countries with missing data, and added data sources and citations to the chart.
+
 
 ## Working with Tableau
 

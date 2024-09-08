@@ -39,7 +39,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
 
 ## Part three: create your own visualization
 
-<div class='tableauPlaceholder' id='viz1725830331556' style='position: relative'><noscript><a href='#'><img alt='General government debtData source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;Generalgovernmentdebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+<div class='tableauPlaceholder' id='viz1725830691308' style='position: relative'><noscript><a href='#'><img alt='General government debtData source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;Generalgovernmentdebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
@@ -56,7 +56,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1725830331556');
+    var divElement = document.getElementById('viz1725830691308');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';

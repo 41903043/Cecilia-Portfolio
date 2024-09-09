@@ -3,8 +3,8 @@
 # Assignment: Visualizing government debt using Tableau
 
 ## Part one: Working with web-based visualization tools and data
+<img src="A1 Screenshot.png" width=500px />
 
-Using OECD data, I created a highlighted table via Tableau to show government debt as a percentage of GDP for each country from 1995 to 2003. I used time as the columns and debt ratios as the rows, and used colors to distinguish between different debt levels. Countries with ratios above 100% are shown in orange and those below 100% are shown in blue to visually compare changes in debt across countries. I also sorted the data, removed countries with missing data, and added data sources and citations to the chart.
 
 ## Working with Tableau
 
@@ -33,8 +33,8 @@ Using OECD data, I created a highlighted table via Tableau to show government de
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+Using OECD data, I created a highlighted table via Tableau to show government debt as a percentage of GDP for each country from 1995 to 2003. I used time as the columns and debt ratios as the rows, and used colors to distinguish between different debt levels. Countries with ratios above 100% are shown in orange and those below 100% are shown in blue to visually compare changes in debt across countries. I also sorted the data, removed countries with missing data, and added data sources and citations to the chart.
 
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
 ## Part three: create your own visualization
 

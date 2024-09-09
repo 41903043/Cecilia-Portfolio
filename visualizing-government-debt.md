@@ -6,6 +6,7 @@
 
 Using OECD data, I created a highlighted table via Tableau to show government debt as a percentage of GDP for each country from 1995 to 2003. I used time as the columns and debt ratios as the rows, and used colors to distinguish between different debt levels. Countries with ratios above 100% are shown in orange and those below 100% are shown in blue to visually compare changes in debt across countries. I also sorted the data, removed countries with missing data, and added data sources and citations to the chart.
 
+Countries with higher debt ratios are shaded in orange, while lower ratios are shaded in blue. For example, Japan and Belgium consistently show high debt levels (in orange), while countries like Denmark and Sweden maintain lower debt levels (in blue). The chart allows for a quick visual comparison of debt levels over time.
 
 ## Working with Tableau
 

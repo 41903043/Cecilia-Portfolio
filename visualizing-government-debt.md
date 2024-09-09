@@ -66,8 +66,7 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
 </script>
 This visualization highlights the top 5 and bottom 5 countries by their government debt-to-GDP ratios over the period from 1995 to 2003. The chart is designed to compare the countries with the highest and lowest average debt-to-GDP ratios, while also providing a visual representation of other countries in gray to emphasize the contrast. The Top 5 countries are shown in orange, the Bottom 5 in blue, and all other countries in gray, without labels for clarity.
 
-Visualization Methods Comparison:
-
+**Visualization Methods Comparison:**
 Bar charts:
 The bar chart helps to quickly determine which countries have the highest or lowest debt for that year. However, it provides a static snapshot and lacks insight into long-term trends.
 
@@ -77,4 +76,5 @@ A heat map provides a broader view by showing each country's debt-to-GDP ratio o
 Line Charts:
 Focusing on the top 5 and bottom 5 countries, the line charts allow for a detailed comparison of trends over time. By highlighting only the extremes, the visualization reduces clutter and provides a clearer picture of the evolution of the debt ratios of these countries. Other countries are shown in gray, ensuring that the overall pulse is visible and not distracting. This approach is useful when focusing on outliers or important cases, while still maintaining an overview of the data set.
 
+**Why I chose line chart?**
 I chose the line chart as the third visualization because it provides a clear and focused comparison of the most important data points: the top 5 debt-to-GDP ratios and the bottom 5 countries. While heat maps and bar charts provide valuable insights, they either overwhelm the viewer with too much information or lack the ability to show changes over time. On the other hand, line charts strike a balance between clarity and detail. By limiting the focus to the most extreme cases and presenting trends over time, it allows viewers to easily track and understand how debt levels have evolved in these countries without being distracted by data from other countries. The use of color (orange for high debt and blue for low debt) further enhances the visualization and helps to quickly distinguish between extreme cases. Overall, the line charts tell a more focused and interpretable story.

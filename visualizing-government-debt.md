@@ -3,49 +3,24 @@
 # Assignment: Visualizing government debt using Tableau
 
 ## Part one: Working with web-based visualization tools and data
+This bar chart shows government debt as a percentage of GDP for each country in 2022. In the chart, Japan has the highest government debt to GDP ratio at nearly 250%, much higher than any other country. Italy, France, and Portugal are next with debt ratios above 100%. The chart also includes the OECD average as a standard of comparison. Some countries, such as Luxembourg and South Korea, have lower debt-to-GDP ratios, close to or below 30%.
+Date Source: “General Government Debt.” 2024. OECD. 2024. https://www.oecd.org/en/data/indicators/general-government-debt.html.
+
 <img src="A1 Screenshot.png" width=500px />
 
-
 ## Working with Tableau
-
-<div class='tableauPlaceholder' id='viz1725776412702' style='position: relative'><noscript><a href='#'><img alt='General government debtData source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17257743426070&#47;Generalgovernmentdebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
-        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-        <param name='embed_code_version' value='3' />
-        <param name='site_root' value='' />
-        <param name='name' value='Book1_17257743426070&#47;Generalgovernmentdebt' />
-        <param name='tabs' value='no' />
-        <param name='toolbar' value='yes' />
-        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17257743426070&#47;Generalgovernmentdebt&#47;1.png' />
-        <param name='animate_transition' value='yes' />
-        <param name='display_static_image' value='yes' />
-        <param name='display_spinner' value='yes' />
-        <param name='display_overlay' value='yes' />
-        <param name='display_count' value='yes' />
-        <param name='language' value='en-US' />
-        <param name='filter' value='publish=yes' />
-    </object></div>
-<script type='text/javascript'>
-    var divElement = document.getElementById('viz1725776412702');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 Using OECD data, I created a highlighted table via Tableau to show government debt as a percentage of GDP for each country from 1995 to 2003. I used time as the columns and debt ratios as the rows, and used colors to distinguish between different debt levels. Countries with ratios above 100% are shown in orange and those below 100% are shown in blue to visually compare changes in debt across countries. I also sorted the data, removed countries with missing data, and added data sources and citations to the chart.
 
+This heat map shows the trend of government debt as a percentage of GDP for each country from 1995 to 2019. The colors range from blue to orange, representing a low to high debt ratio. Countries such as Japan, Greece, and Italy have seen their debt ratios rise significantly, especially after the financial crisis, while some countries such as Estonia and Luxembourg have consistently low debt ratios. The chart clearly shows the long-term changes in the debt levels of countries.
 
-## Part three: create your own visualization
-
-<div class='tableauPlaceholder' id='viz1725830691308' style='position: relative'><noscript><a href='#'><img alt='General government debtData source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;Generalgovernmentdebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+<div class='tableauPlaceholder' id='viz1725999398332' style='position: relative'><noscript><a href='#'><img alt='Government Debt to GDP Ratio by Country, 1995-2019Data source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17257743426070&#47;GovernmentDebttoGDPRatiobyCountry1995-2019&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
-        <param name='name' value='homework1_17258303072560&#47;Generalgovernmentdebt' />
+        <param name='name' value='Book1_17257743426070&#47;GovernmentDebttoGDPRatiobyCountry1995-2019' />
         <param name='tabs' value='no' />
         <param name='toolbar' value='yes' />
-        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;Generalgovernmentdebt&#47;1.png' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17257743426070&#47;GovernmentDebttoGDPRatiobyCountry1995-2019&#47;1.png' />
         <param name='animate_transition' value='yes' />
         <param name='display_static_image' value='yes' />
         <param name='display_spinner' value='yes' />
@@ -55,7 +30,7 @@ Using OECD data, I created a highlighted table via Tableau to show government de
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1725830691308');
+    var divElement = document.getElementById('viz1725999398332');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
@@ -63,7 +38,35 @@ Using OECD data, I created a highlighted table via Tableau to show government de
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+## Part three: create your own visualization
 This visualization highlights the top 5 and bottom 5 countries by their government debt-to-GDP ratios over the period from 1995 to 2003. The chart is designed to compare the countries with the highest and lowest average debt-to-GDP ratios, while also providing a visual representation of other countries in gray to emphasize the contrast. The Top 5 countries are shown in orange, the Bottom 5 in blue, and all other countries in gray, without labels for clarity.
+
+<div class='tableauPlaceholder' id='viz1726000449285' style='position: relative'><noscript><a href='#'><img alt='Time Trend of Government Debt to GDP Ratio by Country, 1995-2019Data source: “General Government Debt.” 2024. OECD. 2024. https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html.‌ ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;TimeTrendofGovernmentDebttoGDPRatiobyCountry1995-2019&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='homework1_17258303072560&#47;TimeTrendofGovernmentDebttoGDPRatiobyCountry1995-2019' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ho&#47;homework1_17258303072560&#47;TimeTrendofGovernmentDebttoGDPRatiobyCountry1995-2019&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+    </object></div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1726000449285');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width = '100%';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 **Visualization Methods Comparison:**
 Bar charts:

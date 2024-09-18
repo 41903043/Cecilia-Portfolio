@@ -16,7 +16,7 @@ The strength of this chart is that it effectively communicates complex data in a
 
 ## Step three: Sketch a solution
 
-< img src="Draft" />
+< img src="Draft.png" />
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._

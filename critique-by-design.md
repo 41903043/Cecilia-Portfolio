@@ -4,15 +4,19 @@
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 ![Original Graph](Original%20Graph.png)
 
-https://data.world/makeovermonday/2023w1
+Data Source: https://data.world/makeovermonday/2023w1
+
+I chose to redesign this visualization of data for two main reasons. First, I am interested in environmental data, especially data that elucidates the effects of greenhouse gases over time, which is why I chose it. Second, the initial visualization of the graph presented a challenge to direct understanding due to its two-axis configuration and the lack of a clear explanation of the units of measurement on the y-axis. This complexity can obscure the important information and data insights it is supposed to convey, and is therefore the best candidate for redesign to improve clarity and accessibility.
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+The strength of this chart is that it effectively communicates complex data in a straightforward manner, using clear, distinguishable lines to represent various data trends. This enhances its utility and realism, ensuring that key environmental data are accurately communicated. However, due to its dual-axis design, and the difficulty in understanding the data in vertical coordinates, the chart struggles with intuitiveness and perceivability, which may confuse viewers unfamiliar with this type of layout. While the chart maintains a clean aesthetic, it lacks an engaging element to appeal to a wider audience or encourage further interaction with the data.
 
 ## Step three: Sketch a solution
 
+< img src="Draft" />
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._

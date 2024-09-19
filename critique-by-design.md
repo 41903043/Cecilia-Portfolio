@@ -91,3 +91,8 @@ With these design changes, I hope that the final chart will convey the key messa
 </script>
 
 
+This project was a very interesting process because it gave me the opportunity to improve and present the data I was interested in through visualization. The starting point for this project was an observation of the raw data, I noticed that the data included a variety of different greenhouse gases so I decided to use a stacked line graph to display it. This type of chart not only shows the overall growth trend, but also provides a clear view of the breakdown of each different gas.
+
+Initially, my chart contained seven sections, but I found this design to be overly complex and cluttered. To simplify and improve the readability of the chart, I chose to categorize three of the gases. In terms of color selection, I initially tried to use four completely different colors, but this made the chart look very confusing. Attempting to use similar colors, while providing a sense of visual unity, would again make it difficult to distinguish between different data. As a result, the choice of colors became a part of the process that I spent a lot of time and effort on.
+
+This assignment also made me realize that the understanding of charts can vary greatly from one target audience to another. We need to take into account the characteristics and needs of our target audience when creating charts, such as the problem I encountered with the vertical scale. By collecting and integrating the opinions of people around me, I kept on revising the charts and finally got the current result. This process not only improved my data visualization skills, but also deepened my understanding of how to effectively communicate complex information.

@@ -39,11 +39,14 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | Interview 1 (student, early 20's) | Interview 2 (student, mid 10's)|
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Can you tell me what you think this is? | This is a graph showing the increase in different greenhouse gases over time | This is a colorful line chart |
+| Can you describe to me what this is telling you? | Environment is getting worse | Greehouse Gases is increasing |
+| Who do you think is the intended audience for this? |             |             |
+| Is there anything you're confused about or can't read in this chart? | The graphs are clear, but I'm confused as to whether this data is global or country or region specific. Also, what the vertical coordinate 'radiative forcing' means is not quite clear, and I would like a more detailed explanation of it |             |
+| Is there anything you're surprised in this chart? |             |             |
+| Is there anything you would change or do differently? |             |             |
 
 Synthesis: 
 

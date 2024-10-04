@@ -1,27 +1,23 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+https://preview.shorthand.com/P6yH01WoNm0jbpWH
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+ My goal is to reach a diverse audience that includes gender equality advocates, policy makers, educators, and people in leadership positions who have the ability to influence workplace policy. I chose this segment because they are in positions where they can drive meaningful change. I also wanted to engage young professionals and students interested in gender equality because they represent the next generation of changemakers. By focusing on data and storytelling, I intend to make the message relatable and impactful so that it sparks a conversation about the persistent gender gap. My goal is to not only raise awareness, but to inspire action, especially by those who can implement policies and practices that promote equality.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Understand initial impressions of the webpage|Can you tell me what you think this webpage is about?|
+|Clarify interpretation of data visualizations|Can you describe to me what the data in each section is telling you?|
+|Identify confusing or unclear sections|Is there anything on the page that you find surprising or confusing?|
+|Test assumptions about target audience|Who do you think this webpage is intended for?|
+|Gather feedback on improvements|Is there anything you would change or suggest doing differently?|
+|Evaluate emotional engagement|How did the data and visualizations make you feel about the issues?|
 
 
 Text here!

@@ -11,12 +11,12 @@ https://preview.shorthand.com/P6yH01WoNm0jbpWH
 ## Interview script
 | Goal | Questions to Ask |
 |------|------------------|
-|Understand initial impressions of the webpage|Can you tell me what you think this webpage is about?|
-|Clarify interpretation of data visualizations|Can you describe to me what the data in each section is telling you?|
-|Identify confusing or unclear sections|Is there anything on the page that you find surprising or confusing?|
-|Test assumptions about target audience|Who do you think this webpage is intended for?|
-|Gather feedback on improvements|Is there anything you would change or suggest doing differently?|
-|Evaluate emotional engagement|How did the data and visualizations make you feel about the issues?|
+| Understand initial impressions of the webpage | Can you tell me what you think this webpage is about? |
+| Clarify interpretation of data visualizations | Can you describe to me what the data in each section is telling you? |
+| Identify confusing or unclear sections | Is there anything on the page that you find surprising or confusing? |
+| Test assumptions about target audience | Who do you think this webpage is intended for? |
+| Gather feedback on improvements | Is there anything you would change or suggest doing differently? |
+| Evaluate emotional engagement | How did the data and visualizations make you feel about the issues? |
 
 ## Interview findings
 For each respondent, I chose people who I thought would provide a different perspective based on their background and expertise.

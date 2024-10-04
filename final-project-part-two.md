@@ -9,14 +9,15 @@ https://preview.shorthand.com/P6yH01WoNm0jbpWH
  My goal is to reach a diverse audience that includes gender equality advocates, policy makers, educators, and people in leadership positions who have the ability to influence workplace policy. I chose this segment because they are in positions where they can drive meaningful change. I also wanted to engage young professionals and students interested in gender equality because they represent the next generation of changemakers. By focusing on data and storytelling, I intend to make the message relatable and impactful so that it sparks a conversation about the persistent gender gap. My goal is to not only raise awareness, but to inspire action, especially by those who can implement policies and practices that promote equality.
 
 ## Interview script
-| Goal | Questions to Ask |
-|------|------------------|
-| Understand initial impressions of the webpage | Can you tell me what you think this webpage is about? |
-| Clarify interpretation of data visualizations | Can you describe to me what the data in each section is telling you? |
-| Identify confusing or unclear sections | Is there anything on the page that you find surprising or confusing? |
-| Test assumptions about target audience | Who do you think this webpage is intended for? |
-| Gather feedback on improvements | Is there anything you would change or suggest doing differently? |
-| Evaluate emotional engagement | How did the data and visualizations make you feel about the issues? |
+| Goal                                         | Questions to Ask                                                            |
+|----------------------------------------------|-----------------------------------------------------------------------------|
+| Understand initial impressions of the webpage| Can you tell me what you think this webpage is about?                        |
+| Clarify interpretation of data visualizations| Can you describe to me what the data in each section is telling you?         |
+| Identify confusing or unclear sections       | Is there anything on the page that you find surprising or confusing?         |
+| Test assumptions about target audience       | Who do you think this webpage is intended for?                               |
+| Gather feedback on improvements              | Is there anything you would change or suggest doing differently?             |
+| Evaluate emotional engagement                | How did the data and visualizations make you feel about the issues?          |
+
 
 ## Interview findings
 For each respondent, I chose people who I thought would provide a different perspective based on their background and expertise.
